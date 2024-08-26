@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Dr. Smith's lectures are engaging and insightful. He explains complex topics clearly."
+    },
+    {
+      "professor": "Dr. Jane Doe",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Dr. Doe is a knowledgeable professor, but her assignments are quite challenging."
+    },
+    {
+      "professor": "Dr. Alan Brown",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "The course material is tough, but Dr. Brown provides good support outside of class."
+    },
+    {
+      "professor": "Dr. Emily Davis",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Dr. Davis is fantastic! Her labs are well-organized and her teaching is excellent."
+    },
+    {
+      "professor": "Dr. Michael Johnson",
+      "subject": "Biology",
+      "stars": 2,
+      "review": "Dr. Johnson's lectures are dry and hard to follow, but the textbook is helpful."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Dr. Lee is passionate about literature and makes the class enjoyable."
+    },
+    {
+      "professor": "Dr. Robert Miller",
+      "subject": "History",
+      "stars": 3,
+      "review": "Dr. Miller is knowledgeable, but his lectures can be a bit monotonous."
+    },
+    {
+      "professor": "Dr. Lisa Taylor",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Dr. Taylor is an amazing professor who genuinely cares about her students."
+    },
+    {
+      "professor": "Dr. William Anderson",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Dr. Anderson challenges you to think deeply and critically about the material."
+    },
+    {
+      "professor": "Dr. Jessica Martinez",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Martinez is friendly and approachable, but the course content is a bit dry."
+    },
+    {
+      "professor": "Dr. Kevin Harris",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Dr. Harris is well-versed in political theory and encourages open discussion."
+    },
+    {
+      "professor": "Dr. Nancy Clark",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Dr. Clark has a great teaching style and makes economics accessible to everyone."
+    },
+    {
+      "professor": "Dr. Steven Adams",
+      "subject": "Art History",
+      "stars": 3,
+      "review": "Dr. Adams is passionate about art, but his lectures could be more interactive."
+    },
+    {
+      "professor": "Dr. Laura Perez",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Perez is very knowledgeable and her classes are both informative and engaging."
+    },
+    {
+      "professor": "Dr. Brian White",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "Dr. White's lectures are difficult to understand and the assignments are very tough."
+    },
+    {
+      "professor": "Dr. Amy Robinson",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Dr. Robinson is an excellent lecturer who brings the subject to life."
+    },
+    {
+      "professor": "Dr. George Wilson",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Dr. Wilson's classes are challenging, but he provides a lot of support and resources."
+    },
+    {
+      "professor": "Dr. Karen Young",
+      "subject": "Linguistics",
+      "stars": 3,
+      "review": "Dr. Young is knowledgeable, but her teaching style is a bit hard to follow."
+    },
+    {
+      "professor": "Dr. Thomas Thompson",
+      "subject": "Business",
+      "stars": 4,
+      "review": "Dr. Thompson provides great real-world examples and keeps the class interesting."
+    },
+    {
+      "professor": "Dr. Megan Garcia",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Dr. Garcia is a brilliant musician and an inspiring teacher. Highly recommend her class!"
+    }
+  ]
+}
